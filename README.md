@@ -1,103 +1,130 @@
-# Olá, seja bem-vindo ao meu GitHub! 👋
 
-### Desenvolvedor de Software | C# • .NET • PostgreSQL • Unity
+<div align="center">
 
-Sou desenvolvedor com formação na área de jogos digitais e experiência na criação de aplicações, automações e soluções para processos empresariais.
+# Olá, eu sou Luiz Guilherme! 👋
 
-Gosto de transformar problemas do cotidiano em soluções práticas, priorizando organização, manutenção, confiabilidade e evolução contínua do código.
+### Desenvolvedor de Software | C# • .NET • PostgreSQL
 
-Atualmente, meus estudos e projetos estão concentrados em **desenvolvimento de aplicações desktop, bancos de dados relacionais, arquitetura de software e desenvolvimento de jogos**.
+Desenvolvimento de sistemas, automação de processos e jogos digitais.
+
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=1769AA&style=flat-square&label=Visualizações)
+
+</div>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou desenvolvedor com formação na área de jogos digitais e experiência na criação de aplicações e soluções para processos empresariais.
+
+Tenho interesse em arquitetura de software, automação, bancos de dados e desenvolvimento de jogos.
+
+- 🔭 Desenvolvendo sistemas desktop com C# e WPF
+- 🗄️ Trabalhando com PostgreSQL e modelagem de dados
+- ⚙️ Explorando automação e integração de sistemas
+- 🎮 Criando experiências interativas com Unity
+- 📚 Sempre buscando aprender novas tecnologias
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-**Desenvolvimento**
-- C# / .NET
-- WPF / XAML
-- Python
-- SQL
-- Unity
+<div align="center">
 
-**Banco de dados**
-- PostgreSQL
-- Modelagem relacional
-- Consultas, views e triggers
+![Skills](https://skillicons.dev/icons?i=cs,dotnet,postgres,python,unity,git,github,vscode,visualstudio&theme=dark&perline=9)
 
-**Ferramentas**
-- Git e GitHub
-- Visual Studio Code
-- pgAdmin
-- Postman
-- Excel e automações
+</div>
 
 ---
 
-## 💻 Projetos em desenvolvimento
+## 🚀 Projetos em destaque
 
-### 📦 Sistema de Gestão de Estoque
+### 📦 Estoque.App
 
-Aplicação desktop desenvolvida com C#, WPF e PostgreSQL, destinada ao gerenciamento de estoques e movimentações de materiais.
+Sistema desktop para gerenciamento de estoques e movimentações de materiais.
 
-**Principais funcionalidades:**
-- Gerenciamento de múltiplos estoques
-- Controle de entradas, saídas e transferências
+**Tecnologias:** C# • WPF • PostgreSQL
+
+- Controle de múltiplos estoques
+- Entradas, saídas e transferências
 - Gestão de usuários e permissões
-- Requisições e aprovações de materiais
-- Registro de movimentações e rastreabilidade
+- Requisições e aprovações
+- Histórico e rastreabilidade
 
-**Tecnologias:** C# · .NET · WPF · PostgreSQL
+### 🏭 AppAcabamento
 
-### 🏭 Sistema de Coleta e Automação Industrial
+Aplicação para automação de coleta e validação de dados em processos produtivos.
 
-Aplicação para coleta, validação e organização de identificadores utilizados em processos produtivos.
+**Tecnologias:** C# • WPF • Excel
 
-**Principais funcionalidades:**
-- Leitura e validação de códigos
-- Identificação de registros duplicados
-- Integração com planilhas Excel
-- Processamento e exportação de dados
-- Registro de erros e operações
+- Leitura e validação de identificadores
+- Prevenção de registros duplicados
+- Exportação automatizada
+- Tratamento de erros e registros
 
-**Tecnologias:** C# · WPF · Excel · Regex
+### 🔎 Rastreabilidade Blue
 
-### 🔎 Sistema de Rastreabilidade
+Sistema de rastreabilidade e organização de ordens de produção.
 
-Projeto voltado ao gerenciamento de ordens de produção, modelos e identificação serial de produtos.
+**Tecnologias:** PostgreSQL • SQL
 
-**Principais funcionalidades:**
 - Geração controlada de números seriais
 - Cadastro de modelos e clientes
 - Organização de ordens de produção
-- Estruturação de dados relacionais
+- Integridade dos dados
 
-**Tecnologias:** PostgreSQL · SQL
+### 🚀 Project Odyssey
 
----
+Projeto pessoal de RPG espacial com exploração, gerenciamento de tripulação e combate tático.
 
-## 🎮 Desenvolvimento de jogos
+**Áreas:** Game Design • Unity • C#
 
-Tenho formação em jogos digitais e experiência com projetos desenvolvidos e publicados.
-
-Atualmente, também exploro conceitos de RPG, sistemas de combate por turnos, inteligência artificial de personagens e design de experiências interativas.
-
-**Tecnologias e interesses:** Unity · C# · Python · Game Design
-
----
-
-## 📚 Áreas de interesse
-
-- Arquitetura e boas práticas de software
-- Automação de processos
-- Banco de dados e integridade das informações
-- Desenvolvimento de ferramentas e sistemas
-- Game development
-- Aprendizado contínuo
+- Exploração espacial
+- Gerenciamento de nave e tripulação
+- Combate estratégico por turnos
+- Decisões com consequências persistentes
 
 ---
 
-### 💡 Minha filosofia
+## 📊 Estatísticas do GitHub
 
-> Não há nada que eu não consiga aprender.
+<div align="center">
 
-Acredito que desenvolver software vai além de escrever código: envolve compreender problemas, analisar possibilidades e construir soluções que realmente façam diferença.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&locale=pt-br)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=58A6FF)
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=0D1117&color=58A6FF&line=1769AA&point=FFFFFF&area=true&hide_border=true)
+
+</div>
+
+---
+
+## 🎯 Interesses
+
+- Arquitetura de software
+- Automação industrial
+- Sistemas de gestão
+- Bancos de dados relacionais
+- Desenvolvimento de jogos
+- Inteligência artificial aplicada ao desenvolvimento
+
+---
+
+<div align="center">
+
+### 💡 Filosofia
+
+*"Não há nada que eu não consiga aprender."*
+
+**Aprender. Desenvolver. Evoluir.**
+
+</div>
