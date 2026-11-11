@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Olá, eu sou Luiz Guilherme! 👋
+# Olá, me chamo Guilherme! 👋
 
 ### Desenvolvedor de Software | C# • .NET • PostgreSQL
 
@@ -23,7 +23,6 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 - 🗄️ Trabalhando com PostgreSQL e modelagem de dados
 - ⚙️ Explorando automação e integração de sistemas
 - 🎮 Criando experiências interativas com Unity
-- 📚 Sempre buscando aprender novas tecnologias
 
 ---
 
@@ -90,7 +89,7 @@ Projeto pessoal de RPG espacial com exploração, gerenciamento de tripulação 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lusivaan&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&locale=pt-br)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=58A6FF)
 
