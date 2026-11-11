@@ -7,7 +7,7 @@
 
 Desenvolvimento de sistemas, automação de processos e jogos digitais.
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO&color=1769AA&style=flat-square&label=Visualizações)
+![Profile Views](https://komarev.com/ghpvc/?username=Lusivaan&color=1769AA&style=flat-square&label=Visualizações)
 
 </div>
 
