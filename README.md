@@ -74,3 +74,11 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 *"Não deixe o problema dominar seu poder de reflexão."*
 
 </div>
+
+<details>
+  <summary>⚔️ A secret quest awaits...</summary>
+  ### ⚔️ We are the Knights Who Say... NI!
+
+  <h3>NI! NI! NI!</h3>
+  🌳 Bring us a shrubbery!
+</details>
