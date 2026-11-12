@@ -3,7 +3,7 @@
 
 # Olá, me chamo Guilherme! 👋
 
-### Desenvolvedor de Software | C# • .NET • PostgreSQL
+### Desenvolvedor de Software | C# • .NET • PostgreSQL • Unity
 
 Desenvolvimento de sistemas, automação de processos e jogos digitais.
 
