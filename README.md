@@ -100,9 +100,10 @@ Projeto pessoal de RPG espacial com exploração, gerenciamento de tripulação 
 
 ## 🚀 Projetos em destaque
 
-<a href="https://github.com/Lusivaan/Lusivaan">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Lusivaan&repo=PsychoFlappy&theme=github_dark&hide_border=true&title_color=58A6FF" />
+<a href="https://github.com/Lusivaan/PsychoFlappy">
+  <img src="https://github-stats-extended.vercel.app/api/pin?username=Lusivaan&repo=PsychoFlappy&theme=github_dark&hide_border=true&title_color=58A6FF" />
 </a>
+
 
 </div>
 
