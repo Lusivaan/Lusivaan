@@ -101,7 +101,7 @@ Projeto pessoal de RPG espacial com exploração, gerenciamento de tripulação 
 
 <div align="center">
 
-![Contribuições](https://ghchart.rshah.org/1769AA/Lusivaan)
+![Tetris Contributions](https://raw.githubusercontent.com/Lusivaan/Lusivaan/output/tetris.svg)
 
 </div>
 
