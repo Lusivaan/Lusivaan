@@ -101,7 +101,8 @@ Projeto pessoal de RPG espacial com exploração, gerenciamento de tripulação 
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lusivaan&theme=github-compact)
+![Contribuições](https://ghchart.rshah.org/1769AA/Lusivaan)
+
 </div>
 
 ---
