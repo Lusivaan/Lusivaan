@@ -89,7 +89,15 @@ Projeto pessoal de RPG espacial com exploração, gerenciamento de tripulação 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lusivaan&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&locale=pt-br)
+
+## 💻 Linguagens mais utilizadas
+
+<div align="center">
+
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Lusivaan&layout=donut&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9)
+
+</div>
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lusivaan&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=58A6FF)
 
