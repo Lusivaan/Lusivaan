@@ -45,14 +45,6 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 
 <div align="center">
 
-## 🚀 Projetos em destaque
-
-<a href="https://github.com/Lusivaan/PsychoFlappy">
-  <img src="https://github-stats-extended.vercel.app/api/pin?username=Lusivaan&repo=PsychoFlappy&theme=github_dark&hide_border=true&title_color=58A6FF&v=2" />
-</a>
-
-</div>
-
 
 <div align="center">
 
