@@ -122,8 +122,6 @@ Projeto pessoal de RPG espacial com exploração, gerenciamento de tripulação 
 
 ### 💡 Filosofia
 
-*"Não há nada que eu não consiga aprender."*
-
-**Aprender. Desenvolver. Evoluir.**
+*"Não deixe o problema dominar seu poder de reflexão."*
 
 </div>
