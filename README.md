@@ -107,6 +107,14 @@ Projeto pessoal de RPG espacial com exploração, gerenciamento de tripulação 
 </div>
 
 
+<div align="center">
+
+## 💻 Linguagens mais utilizadas
+
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Lusivaan&theme=github_dark)
+
+</div>
+
 ---
 
 ## 🎯 Interesses
