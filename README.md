@@ -114,9 +114,9 @@ Projeto pessoal de RPG espacial com exploração, gerenciamento de tripulação 
 - Arquitetura de software
 - Automação industrial
 - Sistemas de gestão
-- BD relacionais
+- Banco de dados
 - Desenvolvimento de jogos
-- Inteligência artificial aplicada ao desenvolvimento
+- IA aplicada desenvolvimento
 
 ---
 
