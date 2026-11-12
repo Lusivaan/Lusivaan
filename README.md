@@ -85,34 +85,27 @@ Projeto pessoal de RPG espacial com exploração, gerenciamento de tripulação 
 
 ---
 
-## 📊 Estatísticas do GitHub
-
 <div align="center">
 
-## 💻 Linguagens mais utilizadas
+## 🔥 Sequência de contribuições
 
-![Linguagens](https://github-stats-extended.vercel.app/api/top-langs/?username=Lusivaan&layout=donut&langs_count=8&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=C9D1D9)
-
-
-![Estatísticas](https://github-stats-extended.vercel.app/api?username=Lusivaan&show_icons=true&theme=github_dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&locale=pt-br)
-
-
-</div>
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Lusivaan&layout=compact&langs_count=6&theme=github_dark&hide_border=true&title_color=58A6FF)
+![GitHub Streak](https://streak-stats.demolab.com?user=Lusivaan&theme=github-dark-blue&hide_border=true&locale=pt_BR)
 
 </div>
 
 ---
 
-## 📈 Atividade
 
 <div align="center">
 
-![Tetris Contributions](https://raw.githubusercontent.com/Lusivaan/Lusivaan/output/tetris.svg)
+## 🚀 Projetos em destaque
+
+<a href="https://github.com/Lusivaan/Lusivaan">
+  <img src="https://github-stats-extended.vercel.app/api/pin/?username=Lusivaan&repo=&theme=github_dark&hide_border=true&title_color=58A6FF" />
+</a>
 
 </div>
+
 
 ---
 
