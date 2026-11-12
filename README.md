@@ -76,7 +76,9 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 </div>
 
 <details>
+  
   <summary>⚔️ A secret quest awaits...</summary>
+  
   ### ⚔️ We are the Knights Who Say... NI!
 
   <h3>NI! NI! NI!</h3>
