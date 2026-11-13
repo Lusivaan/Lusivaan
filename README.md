@@ -69,22 +69,19 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
   resolvendo enigmas e decifrando criptografias para avançar.
 </p>
 
-<table align="center">
-  <tr>
-<h3 align="left">🛠️ Minha participação</h3>
 
-<div align="left">
+<table align="center" width="100%">
+  <tr>
+    <td colspan="2" valign="top">
+
+### 🛠️ Minha participação
 
 - **Level Design:** Responsável por todas as fases do jogo.
 - **Programação:** Desenvolvida em conjunto com Marcel.
 - **Game Design:** Planejamento e criação em equipe.
 
-</div>
-
+    </td>
   </tr>
-</table>
-
-<table align="center">
   <tr>
     <td width="50%" valign="top">
 
@@ -108,6 +105,7 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
     </td>
   </tr>
 </table>
+
 
 <p align="center">
   <a href="https://hgm-studios.itch.io/alunix">
