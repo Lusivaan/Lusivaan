@@ -1,11 +1,7 @@
 
 <div align="center">
 
-# Olá, me chamo Guilherme! 👋
-
-### Desenvolvedor de Software | C# • .NET • PostgreSQL • Unity
-
-Desenvolvimento de sistemas, automação de processos e jogos digitais.
+Desenvolvendo sistemas, automação de processos e jogos digitais.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Lusivaan&color=1769AA&style=flat-square&label=Visualizações)
 
