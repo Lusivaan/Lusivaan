@@ -38,10 +38,6 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 
 ---
 
-
-<div align="center">
-
-
 <div align="center">
 
 ## 💻 Linguagens mais utilizadas
@@ -92,6 +88,7 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
     <td width="50%" valign="top">
 
 ### 📌 Informações
+<h2 align="center">📌 Informações</h2>
 
 - **Estúdio:** HGM Studios
 - **Instituição:** FATEC Americana
@@ -110,17 +107,19 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 </p>
 
 ---
+
+## 🎯 Interesses
 <table align="center" width="100%">
   <tr>
     <td colspan="1" valign="top">
-## 🎯 Interesses
-
+      
 - Arquitetura de software
 - Automação industrial
 - Sistemas de gestão
 - Banco de dados
 - Desenvolvimento de jogos
 - IA aplicada desenvolvimento
+
     </td>
   </tr>
 </table>
