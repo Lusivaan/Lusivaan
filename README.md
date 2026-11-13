@@ -121,7 +121,7 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 - Banco de dados
 - Desenvolvimento de jogos
 - IA aplicada desenvolvimento
-    <\td>
+    </td>
   </tr>
 </table>
 ---
