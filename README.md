@@ -69,6 +69,8 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
   resolvendo enigmas e decifrando criptografias para avançar.
 </p>
 
+<table align="center">
+  <tr>
 <h3 align="left">🛠️ Minha participação</h3>
 
 <div align="left">
@@ -78,6 +80,9 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 - **Game Design:** Planejamento e criação em equipe.
 
 </div>
+
+  </tr>
+</table>
 
 <table align="center">
   <tr>
