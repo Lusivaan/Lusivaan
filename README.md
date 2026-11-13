@@ -61,8 +61,7 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 
 <p align="center">
   <b>Alunix</b> é um jogo 2D de plataforma, exploração e puzzles,
-  desenvolvido pela <b>HGM Studios</b> durante a graduação
-  em Jogos Digitais na FATEC Americana.
+  desenvolvido durante a graduação em Jogos Digitais na FATEC Americana.
 </p>
 
 <p align="center">
@@ -110,6 +109,8 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
     🎮 Jogar Alunix no itch.io
   </a>
 </p>
+
+---
 
 <div align="left">
 ## 🎯 Interesses
