@@ -56,6 +56,50 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 
 ---
 
+<div align="center">
+
+
+## 🎮 Alunix — Jogo Acadêmico
+
+**Alunix** é um jogo 2D de plataforma, exploração e puzzles, desenvolvido pela **HGM Studios** durante a graduação em Jogos Digitais na FATEC Americana.
+
+O jogador controla um mago que explora uma biblioteca antiga, resolvendo enigmas e decifrando criptografias para avançar.
+
+### 🛠️ Minha participação
+
+- **Level Design:** Responsável por todas as fases do jogo.
+- **Programação:** Desenvolvida em conjunto com Marcel.
+- **Game Design:** Planejamento e criação em equipe.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🕹️ Características
+
+- Plataforma e exploração 2D
+- Puzzles e criptografias
+- Fantasia e mistério
+- Progressão por desafios
+
+</td>
+<td width="50%" valign="top">
+
+### 📌 Informações
+
+- **Estúdio:** HGM Studios
+- **Instituição:** FATEC Americana
+- **Categoria:** Plataforma / Puzzle
+- **Status:** Publicado
+
+</td>
+</tr>
+</table>
+
+🎮 **[Jogar Alunix no itch.io](https://hgm-studios.itch.io/alunix)**
+
+</div>
+
 ## 🎯 Interesses
 
 - Arquitetura de software
