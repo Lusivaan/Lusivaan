@@ -56,21 +56,33 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 
 ---
 
-## 🎮 Alunix — Jogo Acadêmico
 
-**Alunix** é um jogo 2D de plataforma, exploração e puzzles, desenvolvido pela **HGM Studios** durante a graduação em Jogos Digitais na FATEC Americana.
+<h2 align="center">🎮 Alunix — Jogo Acadêmico</h2>
 
-O jogador controla um mago que explora uma biblioteca antiga, resolvendo enigmas e decifrando criptografias para avançar.
+<p align="center">
+  <b>Alunix</b> é um jogo 2D de plataforma, exploração e puzzles,
+  desenvolvido pela <b>HGM Studios</b> durante a graduação
+  em Jogos Digitais na FATEC Americana.
+</p>
 
-### 🛠️ Minha participação
+<p align="center">
+  O jogador controla um mago que explora uma biblioteca antiga,
+  resolvendo enigmas e decifrando criptografias para avançar.
+</p>
+
+<h3 align="left">🛠️ Minha participação</h3>
+
+<div align="left">
 
 - **Level Design:** Responsável por todas as fases do jogo.
 - **Programação:** Desenvolvida em conjunto com Marcel.
 - **Game Design:** Planejamento e criação em equipe.
 
-<table>
-<tr>
-<td width="50%" valign="top">
+</div>
+
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🕹️ Características
 
@@ -79,8 +91,8 @@ O jogador controla um mago que explora uma biblioteca antiga, resolvendo enigmas
 - Fantasia e mistério
 - Progressão por desafios
 
-</td>
-<td width="50%" valign="top">
+    </td>
+    <td width="50%" valign="top">
 
 ### 📌 Informações
 
@@ -89,11 +101,15 @@ O jogador controla um mago que explora uma biblioteca antiga, resolvendo enigmas
 - **Categoria:** Plataforma / Puzzle
 - **Status:** Publicado
 
-</td>
-</tr>
+    </td>
+  </tr>
 </table>
 
-🎮 **[Jogar Alunix no itch.io](https://hgm-studios.itch.io/alunix)**
+<p align="center">
+  <a href="https://hgm-studios.itch.io/alunix">
+    🎮 Jogar Alunix no itch.io
+  </a>
+</p>
 
 
 ## 🎯 Interesses
