@@ -132,6 +132,8 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 
 </div>
 
+<div align="center">
+  
 <details>
   
   <summary>⚔️ A secret quest awaits...</summary>
@@ -141,3 +143,4 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
   <h3>NI! NI! NI!</h3>
   🌳 Bring us a shrubbery!
 </details>
+</div>
