@@ -88,7 +88,6 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
     <td width="50%" valign="top">
 
 ### 📌 Informações
-<h2 align="center">📌 Informações</h2>
 
 - **Estúdio:** HGM Studios
 - **Instituição:** FATEC Americana
@@ -108,7 +107,7 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 
 ---
 
-## 🎯 Interesses
+<h2 align="center">🎯 Interesses</h2>
 <table align="center" width="100%">
   <tr>
     <td colspan="1" valign="top">
