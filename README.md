@@ -122,6 +122,7 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
     </td>
   </tr>
 </table>
+
 ---
 
 <div align="center">
