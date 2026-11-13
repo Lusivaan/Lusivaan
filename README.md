@@ -134,7 +134,9 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 </div>
 
 <div align="center">
-  
+
+---
+
 <details>
   
   <summary>⚔️ A secret quest awaits...</summary>
