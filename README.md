@@ -112,6 +112,7 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 ---
 <table align="center" width="100%">
   <tr>
+    <td colspan="1" valign="top">
 ## 🎯 Interesses
 
 - Arquitetura de software
@@ -120,6 +121,7 @@ Tenho interesse em arquitetura de software, automação, bancos de dados e desen
 - Banco de dados
 - Desenvolvimento de jogos
 - IA aplicada desenvolvimento
+    <\td>
   </tr>
 </table>
 ---
